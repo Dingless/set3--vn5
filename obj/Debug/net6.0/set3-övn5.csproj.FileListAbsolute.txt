@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\bin\Debug\net6.0\set3-övn5.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\bin\Debug\net6.0\set3-övn5.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\bin\Debug\net6.0\set3-övn5.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\bin\Debug\net6.0\set3-övn5.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\bin\Debug\net6.0\set3-övn5.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\refint\set3-övn5.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\set3-övn5.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set3-övn5\obj\Debug\net6.0\ref\set3-övn5.dll
